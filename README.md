@@ -5,3 +5,4 @@ Using the SportsORM, complete all the queries and show their results on ```level
 The ERD ```Entity Relationship Diagram``` for the project looks like the following.
 
 <img src="https://raw.githubusercontent.com/wgoode3/SportsORM/master/SportsERD.png" alt="Sports ORM ERD" /># SportsORM1
+# test_delete
